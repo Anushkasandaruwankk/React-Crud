@@ -5,11 +5,7 @@
 
 
 
-//             <hr />
-//             <switch>
-//               <Route exact path='/' component={Home} />
-//               <Route exact path='/login' component={Login} />
-//             </switch>
+ch>
 //           </div>
 //         </Router>
 //     );
