@@ -1,7 +1,6 @@
 
 
-// import Home from './home';
-// import Login from './login';
+
 
 // class App extends Component{
 //   render() {
