@@ -46,7 +46,9 @@ class App extends Component{
             <li><Link to={'/login'}>Login</Link></li>
           </ul>
           <hr />
-          <switch></switch>
+          <switch>
+            
+          </switch>
         </div>
       </Router>
     );
