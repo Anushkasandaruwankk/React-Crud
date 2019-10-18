@@ -28,4 +28,4 @@
 // }
 
 // export default App;
-import
+import React, {Component} from 'react';
