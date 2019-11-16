@@ -5,7 +5,7 @@ class Home extends Component{
         return (
             <div>
                 <h1>Home</h1>
-                <h2>Welcome to Github Account</h2>
+                <h2>Welcome to My Github Account</h2>
             </div>
         );
     }
