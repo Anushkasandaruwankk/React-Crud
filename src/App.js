@@ -48,7 +48,6 @@ class App extends Component{
           <hr />
           <switch>
             <Route exact path='/' component={Home} />
-            
           </switch>
         </div>
       </Router>
