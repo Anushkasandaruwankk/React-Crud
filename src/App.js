@@ -56,4 +56,4 @@ class App extends Component{
   }
 }
 
-export default A
+export default
