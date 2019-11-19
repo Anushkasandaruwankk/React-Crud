@@ -47,7 +47,7 @@ class App extends Component{
           </ul>
           <hr />
           <switch>
-            <Route exact path='/' component=
+            <Route exact path='/'z
           </switch>
         </div>
       </Router>
