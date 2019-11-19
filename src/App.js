@@ -41,9 +41,7 @@ class App extends Component{
           <h2>
             Welcome to React Router
           </h2>
-          <ul>
-  z<l
-          </ul>
+    z<
         </div>
       </Router>
     );
