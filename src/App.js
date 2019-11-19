@@ -46,9 +46,7 @@ class App extends Component{
             <li><Link to={'/login'}>Login</Link></li>
           </ul>
           <hr />
-          <switch>
-            <Route exact pa
-          </switch>
+          <switch></switch>
         </div>
       </Router>
     );
