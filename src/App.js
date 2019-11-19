@@ -42,7 +42,7 @@ class App extends Component{
             Welcome to React Router
           </h2>
           <ul>
-    <li><Link to={'/'}>z</li>
+  z<l
           </ul>
         </div>
       </Router>
