@@ -47,7 +47,7 @@ class App extends Component{
           </ul>
           <hr />
           <switch>
-            <Route exact path='/'z
+            <Route exact pa
           </switch>
         </div>
       </Router>
