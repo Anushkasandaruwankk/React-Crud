@@ -36,11 +36,7 @@ import Login from './login';
 class App extends Component{
   render(){
     return(
-      <Router>
-        <div>
-<zzzz
-        </div>
-      </Router>
+      zz
     );
   }
 }
