@@ -29,5 +29,4 @@
 
 // export default App;
 import React, {Component} from 'react';
-import {BrowserRouter as Router,Switch,Route,Link} from "react-router-dom";
-impz
+import {BrowserRouterz}
