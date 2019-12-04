@@ -4,12 +4,5 @@ import Home from './home';
 import Login from './login';
 class App extends Component{
   render() {
-    return(
-        <>
-          <>
-            <h2>
-              Welcome to React Router
-            </h2>
-            <ul>
-
+  
 
