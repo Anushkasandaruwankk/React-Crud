@@ -25,5 +25,3 @@ class App extends Component{
   }
 
 }
-
-export 
