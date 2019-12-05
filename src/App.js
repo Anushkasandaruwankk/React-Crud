@@ -5,7 +5,7 @@ import Login from './login';
 class App extends Component{
   render() {
     return(
-        <R>
+        <Rout>
           <div>
             <h2>
               Welcome to React Router
@@ -20,5 +20,5 @@ class App extends Component{
               <Route exact path='/login' component={Login} />
             </switch>
           </div>
-        </R
+        </Rout
 
