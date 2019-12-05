@@ -6,24 +6,7 @@ class App extends Component{
   render() {
     return(
         <Router>
-          <div>
-            <h2>
+          <d>
+            <>
               Welcome to React Router
-            </h2>
-            <ul>
-              <li><Link to={'/'}>Home</Link></li>
-              <li><Link to={'/login'}>Login</Link></li>
-            </ul>
-            <hr />
-            <switch>
-              <Route exact path='/' component={Home} />
-              <Route exact path='/login' component={Login} />
-            </switch>
-          </div>
-        </Router>
-    );
-  }
-
-}
-
-export default App;
+    
