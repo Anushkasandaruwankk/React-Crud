@@ -7,6 +7,9 @@ class App extends Component{
     return(
         <Router>
           <d>
-            <h>
+            <h2>
               Welcome to React Router
-            </h
+            </h2>
+            <ul>
+              <li><Link to={'/'}>Home</Link></li>
+
