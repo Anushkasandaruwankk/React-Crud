@@ -16,4 +16,6 @@ class App extends Component{
             </ul>
             <hr />
             <switch>
+              <Route exact path='/' component={Home} />
+              <Route exact path='/login' component={Login} />
 
