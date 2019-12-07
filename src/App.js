@@ -15,7 +15,8 @@ class App extends Component{
               <li><Link to={'/login'}>Login</Link></li>
             </ul>
             <hr />
-            <swit>
+            <switch>
               <Route exact path='/' component={Home} />
               <Route exact path='/login' component={Login} />
-            </swit
+            </switch>
+
