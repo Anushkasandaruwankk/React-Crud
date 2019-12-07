@@ -8,4 +8,6 @@ class App extends Component{
         <Router>
           <di>
             <h2>
+              Welcome to React Router
+            </h2>
 
