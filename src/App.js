@@ -6,7 +6,7 @@ class App extends Component{
   render() {
     return(
         <Router>
-          <di>
+          <div>
             <h2>
               Welcome to React Router
             </h2>
@@ -19,4 +19,5 @@ class App extends Component{
               <Route exact path='/' component={Home} />
               <Route exact path='/login' component={Login} />
             </switch>
+          </div>
 
