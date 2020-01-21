@@ -11,4 +11,5 @@ class App extends Component{
               Welcome to React Router
             </h2>
             <ul>
-
+              <li><Link to={'/'}>Home</Link></li>
+              
