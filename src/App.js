@@ -16,4 +16,5 @@ class App extends Component{
             </ul>
             <hr />
             <switch>
-              
+              <Route exact path='/' component={Home} />
+
