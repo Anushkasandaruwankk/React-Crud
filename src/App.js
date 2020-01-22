@@ -27,7 +27,3 @@ class App extends Component{
 }
 
 export default App;
-,djsbsvsdhshhdcbshv sbd bhjshj hjvhsjs
-ssvghshcg
-scshjcghjsjcjhvgshcvhsbgcvshmc
-schbshghcjsbvbcghsgdhchscvb versionschbhsc
