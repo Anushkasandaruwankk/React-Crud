@@ -15,7 +15,7 @@ class App extends Component{
               <li><Link to={'/login'}>Login</Link></li>
             </ul>
             <hr />
-            <s>
+            <sw>
               <Route exact path='/' component={Home} />
               <Route exact path='/login' component={Login} />
-            </s
+            </sw
