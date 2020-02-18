@@ -17,4 +17,5 @@ class App extends Component{
             <hr />
             <>
               <Route exact path='/' component={Home} />
+              <Route exact path='/login' component={Login} />
 
