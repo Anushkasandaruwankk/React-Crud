@@ -24,3 +24,5 @@ class App extends Component{
     );
   }
 
+}
+
